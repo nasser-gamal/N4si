@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Software Engineer.</h1>
 
 
-<p>Welcome to my page! </br> I'm Nasser, Backend developer from <img alt="Egypt" src="https://img.shields.io/badge/-Egypt-ef3340?style=flat-square&logo=Egypt&logoColor=white" />
+<p>Welcome to my page! </br> I'm Nasser, Backend developer from Egypt
 
 <h3>Things I code with</h3>
 <p>
